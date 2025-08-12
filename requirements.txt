@@ -1,4 +1,0 @@
-requests
-pyperclip
-openai
-python-dotenv
