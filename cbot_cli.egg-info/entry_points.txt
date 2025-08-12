@@ -1,3 +1,0 @@
-[console_scripts]
-cbot = cbot.__main__:main
-cbot-cli = cbot.__main__:main
