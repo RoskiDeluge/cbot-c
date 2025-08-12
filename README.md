@@ -1,8 +1,8 @@
 ## Cbot-cli Basics
 
-The application is a C script that prompts the Llama/Ollama text completion endpoint with a system message and can identify the OS of the current system. This helps ensure that Linux, Mac, and Windows specific commands tend to be more accurate.
+This cli application prompts the Llama/Ollama text completion endpoint with a system message and can identify the OS of the current system. This helps ensure that Linux, Mac, and Windows specific commands tend to be more accurate.
 
-This project is a port of the original Cbot-cli python project into pure C. 
+_This project is a pure C version of the original Cbot-cli project written in Python._ 
 
 ## Building
 
